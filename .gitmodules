@@ -1,0 +1,3 @@
+[submodule "blond/_common"]
+	path = blond/_common
+	url = https://github.com/blond-org/blond_common.git
